@@ -20,5 +20,5 @@ Full assiginment can be found [here](docs/Assignment%20RDD%20AY%202025-2026.pdf)
 All final artifacts can be found in the [DeliveryFolder](DeliveryFolder/).
 | Artifact | Description | Format |
 | :--- | :--- | :--- |
-| **RAS** | *Requirements Analysis Specification* - Use cases, functional/non-functional requirements, and Alloy models. | PDF |
+| **RASD** | *Requirements Analysis Specification* - Use cases, functional/non-functional requirements, and Alloy models. | PDF |
 | **DD** | *Design Document* - Software architecture, component descriptions and interfaces, deplplyment specifications. | PDF |
